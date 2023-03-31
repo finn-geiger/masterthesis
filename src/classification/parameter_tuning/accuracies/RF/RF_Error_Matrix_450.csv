@@ -1,0 +1,9 @@
+Names;Informal;Formal;Industrial;Roads;Vacant land;Vegetation;Water-bodies;Total
+Informal;18;6;1;4;1;0;0;30
+Formal;2;25;2;1;0;0;0;30
+Industrial;3;7;16;4;0;0;0;30
+Roads;0;3;0;26;1;0;0;30
+Vacant land;3;0;1;2;24;0;0;30
+Vegetation;0;0;0;0;0;25;5;30
+Water-bodies;0;0;0;0;0;1;29;30
+Total;26;41;20;37;26;26;34;210

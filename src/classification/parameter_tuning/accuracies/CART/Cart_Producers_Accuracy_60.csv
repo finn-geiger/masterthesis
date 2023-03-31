@@ -1,0 +1,8 @@
+Producer Accuracy;Class name
+56.67;Informal
+63.33;Formal
+56.67;Industrial
+66.67;Roads
+63.33;Vacant land
+80.0;Vegetation
+90.0;Water-bodies
