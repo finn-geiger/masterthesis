@@ -9,11 +9,11 @@ For this visit https://docs.conda.io/projects/conda/en/latest/user-guide/install
 
 Once conda is installed, the following command creates desired environment:
 
-conda create --name <MyEnv> --file conda_env_requirements.txt
+conda create --name MyEnv --file conda_env_requirements.txt
 
 The envionment can be activated using:
 
-conda activate <MyEnv>
+conda activate MyEnv
 
 ## Option 2 - Using the python package installer (pip)
 The second option is using pip to create a virtual environment. 
