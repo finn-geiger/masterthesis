@@ -1,0 +1,8 @@
+Class name;Producer Accuracy;Consumer Accuracy
+Informal;60.98;56.82
+Formal;53.33;55.81
+Industrial;61.54;45.71
+Roads;68.63;85.37
+Vacant land;86.52;77.0
+Vegetation;70.15;85.45
+Water-bodies;100.0;96.88
