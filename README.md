@@ -3,3 +3,5 @@ Repository containing the codes used within my master thesis at Berlin Universit
 
 ## Research Topic
 Using Artificial Intelligence for multi-temporal change detection on high-resolution satellite imagery.
+
+### To use codes follow the instructions in /env/
